@@ -5,7 +5,7 @@ Version:        0.3
 Release:        %mkrel 1
 Summary:        Moblin X cursors icon theme
 
-Group:          User Interface/Desktops
+Group:          Graphics
 License:        CC-BY
 URL:            http://www.moblin.org
 Source0:        http://git.moblin.org/cgit.cgi/%{name}/snapshot/%{name}-%{version}.tar.bz2
